@@ -1,0 +1,7 @@
+def find_max_element(input_list):
+    return max(input_list)
+
+# Test Cases
+test_case_1 = [1, 2, 3, 4, 5]
+test_case_2 = [7, 7, 7, 7, 7]
+test_case_3 = [-10, 2, 3, -4, 5]
